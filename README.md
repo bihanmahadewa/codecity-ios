@@ -29,10 +29,7 @@ class ViewController: UIViewController {
         nameOutput.text = "Hi " + name.text!
         
     }
-    
-    
-    
-}
+    }
 
 
 Happy Coding :)
