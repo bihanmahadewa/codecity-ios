@@ -1,4 +1,4 @@
-#Adding Images | Swift 4
+# Adding Images | Swift 4
 ## Congrats 
 
 Great! You have made it to the 2.2 session in the complete iOS developer course. 
